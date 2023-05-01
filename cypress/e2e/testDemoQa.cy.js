@@ -1,3 +1,4 @@
+// git cool tool
 describe(`second test`, () => {
   beforeEach(() => {
     cy.visit(`https://demoqa.com/`);
