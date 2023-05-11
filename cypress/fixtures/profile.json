@@ -1,5 +1,16 @@
 {
-  "id": 8739,
-  "name": "Jane",
-  "email": "jane@example.com"
+  "set": [
+    {
+      "firstName": "Jam",
+      "userEmail": "jam@redrover.scl"
+    },
+    {
+      "firstName": "Kirill",
+      "userEmail": "kirill@redrover.scl"
+    },
+    {
+      "firstName": "Darya",
+      "userEmail": "darya@redrover.scl"
+    }
+  ]
 }
